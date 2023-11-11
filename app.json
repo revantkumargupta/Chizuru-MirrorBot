@@ -69,10 +69,5 @@
   "buildpacks": [{
       "url": "heroku/python"
     }],
-  "formation": {
-      "web": {
-          "quantity": 1,
-          "size": "free"
-      }
   }
 }
